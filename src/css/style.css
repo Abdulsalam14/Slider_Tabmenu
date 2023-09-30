@@ -1,0 +1,18 @@
+img{
+    width: 650px;
+    height: 550px;
+    margin-left:0;
+    border-radius: 0%;
+    transition-property: margin-left,border-radius;
+    transition-duration: 2s;
+}
+
+.container{
+    width: 650px;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+    position: relative;
+    display: flex;
+    overflow: hidden;
+}
